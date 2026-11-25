@@ -10,7 +10,7 @@ Infrastructure and DevOps engineer, building toward AI Engineer / Forward Deploy
 
 ## What I do
 
-Infrastructure and DevOps automation in a regulated environment: inventory and documentation automation, vulnerability management, and CI/CD across mixed Windows and Linux systems.
+Infrastructure and DevOps automation in a regulated environment: inventory and documentation automation, vulnerability management, and CI/CD pipelines.
 
 ## Certifications
 
